@@ -10,7 +10,7 @@ Unsere Aufgabe war, ein Programm zu programmieren, welches eine **Datei mit E-Ma
 
 # Inhalt
 
-## Video
+## Video welches zeigt wie das Programm mit dem Algorithmus funktioniert
 
 [![Zum Video!](https://github.com/oli-kis/oli-kis/blob/oli-kis/img/Algorithmen-e1552378144472.jpg?raw=true)](https://youtu.be/Eeao3qKMB2s)
 
