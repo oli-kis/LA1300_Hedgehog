@@ -1,2 +1,2 @@
-# LA1300_Workshop
+# LA1300_Hedgehog
 Hallo willkommen zu meinem Portfolio
